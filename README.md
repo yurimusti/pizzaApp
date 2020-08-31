@@ -12,6 +12,12 @@ After cloning this application, enter the root folder and run the command:
 
 ```docker-compose up -d```
 
+WebApplication running in 
+```localhost:3000```
+
+API running in 
+```localhost:4000/list```
+
 ## Tech
 
 ### ReactJS
