@@ -62,8 +62,6 @@ const Home = ({ list = [] }: Props) => {
       setOptions(newList);
   }, [list]);
 
-  console.log(list);
-
   const defaultOptions = {
     loop: true,
     autoplay: true,

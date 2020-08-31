@@ -38,8 +38,6 @@ const Routes = ({ showLoading }: Props) => {
     },
   };
 
-  console.log(showLoading);
-
   return (
     <BrowserRouter>
       <Loading show={showLoading}>
