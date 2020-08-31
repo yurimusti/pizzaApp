@@ -33,6 +33,11 @@ After cloning this application, enter the root folder and run the command:
 * Because of the short time, I did not implement any tests. 
 But if I had time, I would use regression testing using Jest and Enzyme and methodology as TDD
 
+### Figma
+
+* Using figma to create a SVG icons to project
+```https://www.figma.com/file/0YRnGVBMP2dkgL7RqCULeX/Untitled```
+
 
 
 Any questions, I am available.
